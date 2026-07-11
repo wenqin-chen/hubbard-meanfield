@@ -29,9 +29,10 @@ states (Berg-Luscher skyrmion number, triple-Q detection). Author: [Wenqin Chen]
 ## Scope
 
 This repository is a curated research code sample: the solver core and methodology
-modules of a larger private research codebase. Campaign drivers, result datasets, and
-components tied to unpublished results are deliberately omitted until the accompanying
-paper is published.
+modules of a larger private research codebase, ~7,600 lines of Python across 14
+solver/diagnostic modules and a 77-test oracle-driven pytest suite. Campaign drivers,
+result datasets, and components tied to unpublished results are deliberately omitted
+until the accompanying paper is published.
 
 ## Quickstart
 
